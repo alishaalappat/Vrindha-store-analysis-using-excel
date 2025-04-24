@@ -1,5 +1,5 @@
 
-📊 Vrinda Store Data Analysis (Excel)
+##📊 Vrinda Store Data Analysis (Excel)##
 This project involves a comprehensive data analysis of the Vrinda Store dataset using Microsoft Excel. It aims to extract meaningful business insights from raw sales and inventory data.
 
 🗂️ File Description
